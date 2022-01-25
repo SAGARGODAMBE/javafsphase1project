@@ -54,7 +54,8 @@ public class LockedMe {
     }
     public static void displayMenu()
     {
-        System.out.println("\t\t1:Display all the Files:");
+    	System.out.println("-----------------------------------------------------");  
+    	System.out.println("\t\t1:Display all the Files:");
         System.out.println("\t\t2:Add a New file:");
         System.out.println("\t\t3:Delete a File:");
         System.out.println("\t\t4:Search a File:");
